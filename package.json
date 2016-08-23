@@ -1,0 +1,29 @@
+{
+  "name": "nanolibjs",
+  "version": "1.0.0",
+  "description": "simple lib",
+  "main": "src/index.js",
+  "dependencies": {
+    "bitcore": "0.12.12",
+    "express": "4.14.0",
+    "generator-angular-heroku": "0.0.2",
+    "mathjs": "3.4.1",
+    "mongodb": "2.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo\\ \"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+http://github.com/mapineda/nanolib.js.git"
+  },
+  "keywords": [
+    "math",
+    "npm",
+    "javascript",
+    "library"
+  ],
+  "author": "Marco P (http://www.owlery.club/)",
+  "license": "MIT"
+}
